@@ -1,0 +1,1 @@
+alter table cliente change column cpf cpf varchar(11) unique not null

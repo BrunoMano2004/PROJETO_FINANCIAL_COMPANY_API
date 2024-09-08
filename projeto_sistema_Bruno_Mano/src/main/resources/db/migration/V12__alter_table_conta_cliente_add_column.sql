@@ -1,0 +1,1 @@
+alter table conta_cliente add column status bool not null default 1

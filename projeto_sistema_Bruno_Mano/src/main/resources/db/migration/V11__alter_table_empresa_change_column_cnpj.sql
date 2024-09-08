@@ -1,0 +1,1 @@
+alter table empresa change column cnpj cnpj varchar(14) not null unique

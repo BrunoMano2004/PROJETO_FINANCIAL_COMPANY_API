@@ -1,0 +1,1 @@
+alter table transacao add column data timestamp default current_timestamp

@@ -1,0 +1,1 @@
+alter table empresa change column taxaTransacao taxa_transacao float
